@@ -1,6 +1,6 @@
 # Duplicate-Video-Search-Language-for-Traditional-Chinese
-Duplicate Video Search 中文語言包
+Duplicate Video Search 繁體中文語言
 
 
-替換掉C:\Program Files (x86)\Duplicate Video Search\Languages 中的任意其他語言檔案，並在軟體中點天平選擇即可。
+將檔案放在 C:\Program Files (x86)\Duplicate Video Search\Languages 裡面，並在軟體中點選天平圖案選擇chinese即可。
 
